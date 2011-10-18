@@ -12,7 +12,7 @@
  *
  * Copyright @2011 Hendrik Ebbers
  */
-package de.jgrid.demo.bookshelf;
+package com.guigarage.jgrid.demo.bookshelf;
 
 import java.awt.BasicStroke;
 import java.awt.Color;
@@ -34,8 +34,8 @@ import javax.swing.SwingWorker;
 import javax.swing.UIManager;
 
 import com.guigarage.jgrid.JGrid;
+import com.guigarage.jgrid.demo.util.CoolProgressBarUI;
 
-import de.jgrid.demo.util.CoolProgressBarUI;
 
 public class BookshelfDemo extends JFrame {
 

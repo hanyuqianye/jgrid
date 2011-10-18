@@ -12,7 +12,7 @@
  *
  * Copyright @2011 Hendrik Ebbers
  */
-package de.jgrid.demo.bookshelf;
+package com.guigarage.jgrid.demo.bookshelf;
 
 import java.awt.image.BufferedImage;
 import java.io.IOException;
@@ -21,7 +21,8 @@ import java.net.URL;
 
 import javax.imageio.ImageIO;
 
-import de.jgrid.demo.util.ImageUtilities;
+import com.guigarage.jgrid.demo.util.ImageUtilities;
+
 
 public class Book {
 

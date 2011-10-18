@@ -12,7 +12,7 @@
  *
  * Copyright @2011 Hendrik Ebbers
  */
-package de.jgrid.demo.util;
+package com.guigarage.jgrid.demo.util;
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;

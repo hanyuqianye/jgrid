@@ -1,4 +1,4 @@
-package de.jgrid.demo.bookshelf;
+package com.guigarage.jgrid.demo.bookshelf;
 
 import java.awt.Component;
 import java.awt.Container;

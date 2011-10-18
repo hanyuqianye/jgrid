@@ -12,7 +12,7 @@
  *
  * Copyright @2011 Hendrik Ebbers
  */
-package de.jgrid.demo.bookshelf;
+package com.guigarage.jgrid.demo.bookshelf;
 
 import java.awt.BasicStroke;
 import java.awt.Color;
@@ -31,9 +31,9 @@ import javax.imageio.ImageIO;
 import javax.swing.BorderFactory;
 import javax.swing.JComponent;
 
+import com.guigarage.jgrid.demo.util.UrlLoader;
 import com.guigarage.jgrid.ui.BasicGridUI;
 
-import de.jgrid.demo.util.UrlLoader;
 
 public class BookshelfUI extends BasicGridUI {
 

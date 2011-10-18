@@ -12,7 +12,7 @@
  *
  * Copyright @2011 Hendrik Ebbers
  */
-package de.jgrid.demo.bookshelf;
+package com.guigarage.jgrid.demo.bookshelf;
 
 import java.awt.BasicStroke;
 import java.awt.Color;
@@ -26,9 +26,9 @@ import java.awt.image.BufferedImage;
 import javax.swing.JComponent;
 
 import com.guigarage.jgrid.JGrid;
+import com.guigarage.jgrid.demo.util.ImageUtilities;
 import com.guigarage.jgrid.renderer.GridCellRenderer;
 
-import de.jgrid.demo.util.ImageUtilities;
 
 public class OpenLibraryGridRenderer extends JComponent implements
 		GridCellRenderer {
